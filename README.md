@@ -671,11 +671,11 @@ Special thanks to:
 - MIT licensed
 
 ### Upcoming Features:
-- [ ] Phone number OSINT
-- [ ] IP address geolocation
-- [ ] Blockchain address tracking
+- [✓] Phone number OSINT
+- [✓] IP address geolocation
+- [✓] Blockchain address tracking
 - [ ] Social media post scraping
-- [ ] PDF report generation
+- [✓] PDF report generation
 - [ ] API endpoint
 - [ ] Web interface
 - [ ] Docker support
